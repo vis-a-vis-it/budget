@@ -7,6 +7,6 @@ public class main {
 		a = "test";
 		System.out.print(a);
 		
-		System.out.println(a);
+			System.out.println(a);
 	}
 }
