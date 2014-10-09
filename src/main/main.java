@@ -6,5 +6,7 @@ public class main {
 		String a;
 		a = "test";
 		System.out.print(a);
+		
+		System.out.println(a);
 	}
 }
